@@ -41,10 +41,8 @@ app.post('/', async(req, res) => {
         const convertData = convert.xml2json(body, {compact: true, spaces: 2})
         const result = JSON.parse(convertData)
         let waiterList = {}
-
         result.RK7QueryResult.Waiters.waiter.forEach((item, index) => {
-            waiterList = { ...waiterList, [index] : { ...item._attributes, } } })
-
+            waiterList = { ...waiterList, [index] : { ...item._attributes } } })
         res.send(waiterList)
     })
 })

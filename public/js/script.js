@@ -5,7 +5,7 @@ let waiterList;
 const renderWaiterList = () => {
     const data = waiterList;
     $personal.innerHTML = '';
-    for (let [key, value] in data) {
+    for (let key in data) {
         const $option = document.createElement('option');
         $option.dataset.id = key;
         $option.setAttribute('id', key);
@@ -27,9 +27,10 @@ const getWaiterList = () => {
     })
     .then(res => res.json())
     .then(data => {
-        console.log(data);
+        console.log(data, 'dada')
         waiterList = data;        
     })
+    // console.log(waiterList)
 };
 
 const init = () => {
