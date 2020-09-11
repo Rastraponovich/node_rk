@@ -1,0 +1,6264 @@
+{
+	"Все": {
+		"attributes": {
+			"Ident": "0",
+			"ItemIdent": "0",
+			"SourceIdent": "0",
+			"GUIDString": "",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "false",
+			"Code": "0",
+			"Name": "Все",
+			"AltName": "All",
+			"MainParentIdent": "0",
+			"Status": "rsDraft",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "0",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "0",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000007",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000021",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000066",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000067",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000068",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1112",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Нераспределяемые Наценки": {
+		"attributes": {
+			"Ident": "1000007",
+			"ItemIdent": "1000007",
+			"SourceIdent": "0",
+			"GUIDString": "{FFEAB8D0-A3BA-4E2B-BF9A-B5D8F40ED7A6}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "false",
+			"Code": "1",
+			"Name": "Нераспределяемые Наценки",
+			"AltName": "Undistributed Markups",
+			"MainParentIdent": "0",
+			"Status": "rsInactive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "0",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "1",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": {
+				"_attributes": {
+					"ChildIdent": "99999",
+					"IsTerminal": "1"
+				}
+			}
+		}
+	},
+	"Тесты": {
+		"attributes": {
+			"Ident": "1000021",
+			"ItemIdent": "1000021",
+			"SourceIdent": "0",
+			"GUIDString": "{7DB8DBF2-2993-4388-9DE6-255F1513F037}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "5",
+			"Name": "Тесты",
+			"AltName": "",
+			"MainParentIdent": "0",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "0",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "2",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000022",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000023",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000024",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Кухня": {
+		"attributes": {
+			"Ident": "1000066",
+			"ItemIdent": "1000066",
+			"SourceIdent": "0",
+			"GUIDString": "{713E29C0-620A-4924-AA83-0E9FE2B52906}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "13",
+			"Name": "Кухня",
+			"AltName": "",
+			"MainParentIdent": "0",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "0",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "4",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000780",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000781",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000782",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000783",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000784",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000785",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000786",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000787",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000788",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000789",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000790",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000791",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000792",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000793",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000794",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000795",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000796",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000797",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000798",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000799",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000800",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000801",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000802",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000803",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000804",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000805",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000806",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000807",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000808",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000809",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000810",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000811",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000812",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000813",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000814",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000815",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000816",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000817",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000818",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000819",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"бар": {
+		"attributes": {
+			"Ident": "1000067",
+			"ItemIdent": "1000067",
+			"SourceIdent": "0",
+			"GUIDString": "{A6936623-04DD-4268-95EF-9338E7FC232A}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "14",
+			"Name": "бар",
+			"AltName": "",
+			"MainParentIdent": "0",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "0",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "5",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000098",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000099",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000601",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000329",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"тесты": {
+		"attributes": {
+			"Ident": "1000068",
+			"ItemIdent": "1000068",
+			"SourceIdent": "0",
+			"GUIDString": "{78523C89-8BDF-41EA-AE6A-3BB987285650}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "false",
+			"Code": "15",
+			"Name": "тесты",
+			"AltName": "",
+			"MainParentIdent": "0",
+			"Status": "rsDeleted",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "0",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "6",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			}
+		}
+	},
+	"Крепленные вина": {
+		"attributes": {
+			"Ident": "1000070",
+			"ItemIdent": "1000070",
+			"SourceIdent": "0",
+			"GUIDString": "{3C414B2D-E44A-4985-AE3D-D042608080D6}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "16",
+			"Name": "Крепленные вина",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "7",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000359",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000360",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000361",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000362",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000363",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000364",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000365",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000366",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000367",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000368",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000369",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000370",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Женивер": {
+		"attributes": {
+			"Ident": "1000071",
+			"ItemIdent": "1000071",
+			"SourceIdent": "0",
+			"GUIDString": "{4E39C921-5848-4BA0-A5DA-2A2344401EF4}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "17",
+			"Name": "Женивер",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "8",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": {
+				"_attributes": {
+					"ChildIdent": "1000398",
+					"IsTerminal": "1"
+				}
+			}
+		}
+	},
+	"Джин": {
+		"attributes": {
+			"Ident": "1000072",
+			"ItemIdent": "1000072",
+			"SourceIdent": "0",
+			"GUIDString": "{355E1004-E526-4055-9940-99940445EDB2}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "18",
+			"Name": "Джин",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "9",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000381",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000382",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000383",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000384",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000385",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000386",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000387",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000388",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000389",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000390",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000391",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000392",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000393",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000394",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000395",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000396",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000397",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Водка": {
+		"attributes": {
+			"Ident": "1000073",
+			"ItemIdent": "1000073",
+			"SourceIdent": "0",
+			"GUIDString": "{F7BFA29C-8A17-44F2-B5FF-A3CBF25A4B5F}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "19",
+			"Name": "Водка",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "10",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000399",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000400",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000401",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000402",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000403",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000404",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000405",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000406",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Дистилят": {
+		"attributes": {
+			"Ident": "1000074",
+			"ItemIdent": "1000074",
+			"SourceIdent": "0",
+			"GUIDString": "{5B929BAB-8785-4993-A0D1-1E02D06EB616}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "20",
+			"Name": "Дистилят",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "11",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			}
+		}
+	},
+	"Кашаса": {
+		"attributes": {
+			"Ident": "1000075",
+			"ItemIdent": "1000075",
+			"SourceIdent": "0",
+			"GUIDString": "{AB0D4EE6-965A-4A46-A340-8B4E53F50D0F}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "21",
+			"Name": "Кашаса",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "12",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": {
+				"_attributes": {
+					"ChildIdent": "1000432",
+					"IsTerminal": "1"
+				}
+			}
+		}
+	},
+	"Ром": {
+		"attributes": {
+			"Ident": "1000076",
+			"ItemIdent": "1000076",
+			"SourceIdent": "0",
+			"GUIDString": "{C32D066E-A839-4BC7-86D7-BC174B5BAD33}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "22",
+			"Name": "Ром",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "13",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000412",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000413",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000414",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000415",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000416",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000417",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000418",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000419",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000420",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000421",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000422",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000423",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000424",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000425",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000426",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000427",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000428",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000429",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000430",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000431",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Ирландия": {
+		"attributes": {
+			"Ident": "1000077",
+			"ItemIdent": "1000077",
+			"SourceIdent": "0",
+			"GUIDString": "{4FEFCAE2-2C64-4817-B239-DF9B830E93E4}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "23",
+			"Name": "Ирландия",
+			"AltName": "",
+			"MainParentIdent": "1000085",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000085",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "14",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000488",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000489",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000490",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Япония": {
+		"attributes": {
+			"Ident": "1000078",
+			"ItemIdent": "1000078",
+			"SourceIdent": "0",
+			"GUIDString": "{E0E1DE8C-F7E6-4DFF-B67A-911A10AB3ACD}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "24",
+			"Name": "Япония",
+			"AltName": "",
+			"MainParentIdent": "1000085",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000085",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "15",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000459",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000460",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000461",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000462",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Аперитивы и биттеры": {
+		"attributes": {
+			"Ident": "1000079",
+			"ItemIdent": "1000079",
+			"SourceIdent": "0",
+			"GUIDString": "{D329A458-0197-4E76-8A3A-DEE6FDB28F74}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "25",
+			"Name": "Аперитивы и биттеры",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "16",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000330",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000331",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000332",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000333",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000334",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000335",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000336",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Мескаль": {
+		"attributes": {
+			"Ident": "1000080",
+			"ItemIdent": "1000080",
+			"SourceIdent": "0",
+			"GUIDString": "{E3A0792B-1109-40D6-A78A-ABA42F454B85}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "26",
+			"Name": "Мескаль",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "17",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000556",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000557",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000558",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"Текила": {
+		"attributes": {
+			"Ident": "1000081",
+			"ItemIdent": "1000081",
+			"SourceIdent": "0",
+			"GUIDString": "{3904D1FE-7505-4D0E-A896-E245FA94CB1E}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "27",
+			"Name": "Текила",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "18",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000553",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000554",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000555",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"Вермуты и амаретто": {
+		"attributes": {
+			"Ident": "1000082",
+			"ItemIdent": "1000082",
+			"SourceIdent": "0",
+			"GUIDString": "{549A2944-46D4-4E6C-926A-B790009EB583}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "28",
+			"Name": "Вермуты и амаретто",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "19",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000337",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000338",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000339",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000340",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000341",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000342",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000343",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000344",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000345",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000346",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000347",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000348",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000349",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000350",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000351",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000352",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000353",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000354",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000355",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000356",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000357",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000358",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Шотландия": {
+		"attributes": {
+			"Ident": "1000083",
+			"ItemIdent": "1000083",
+			"SourceIdent": "0",
+			"GUIDString": "{EE6F27C6-E18A-47A6-AF50-8EAF92E7464F}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "29",
+			"Name": "Шотландия",
+			"AltName": "",
+			"MainParentIdent": "1000085",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000085",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "20",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000559",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000560",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000561",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"Америка": {
+		"attributes": {
+			"Ident": "1000084",
+			"ItemIdent": "1000084",
+			"SourceIdent": "0",
+			"GUIDString": "{B5BB172F-B38B-4B77-BE33-7682C9353DA0}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "30",
+			"Name": "Америка",
+			"AltName": "",
+			"MainParentIdent": "1000085",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000085",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "21",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000479",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000480",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000481",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000482",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000483",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000484",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000485",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000486",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000487",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Виски": {
+		"attributes": {
+			"Ident": "1000085",
+			"ItemIdent": "1000085",
+			"SourceIdent": "0",
+			"GUIDString": "{E4716A1D-92CB-4C6E-BFD3-C75402A1024E}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "31",
+			"Name": "Виски",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "22",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000077",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000078",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000083",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000084",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000091",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000097",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"Кальвадос": {
+		"attributes": {
+			"Ident": "1000086",
+			"ItemIdent": "1000086",
+			"SourceIdent": "0",
+			"GUIDString": "{FBB26285-0993-4718-BFD8-F6C49F69AF90}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "32",
+			"Name": "Кальвадос",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "23",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": {
+				"_attributes": {
+					"ChildIdent": "1000508",
+					"IsTerminal": "1"
+				}
+			}
+		}
+	},
+	"Тайвань": {
+		"attributes": {
+			"Ident": "1000087",
+			"ItemIdent": "1000087",
+			"SourceIdent": "0",
+			"GUIDString": "{C8ABB571-0C19-4202-A2CC-B35B64FB1B42}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "33",
+			"Name": "Тайвань",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "24",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000456",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000457",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000458",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Биттеры": {
+		"attributes": {
+			"Ident": "1000088",
+			"ItemIdent": "1000088",
+			"SourceIdent": "0",
+			"GUIDString": "{10CA95E6-620C-41AD-8D14-E12B4C398D88}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "34",
+			"Name": "Биттеры",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "25",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000541",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000542",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000543",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000544",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000545",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000546",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000547",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000548",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000549",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000550",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000551",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000552",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Ликеры и настойки": {
+		"attributes": {
+			"Ident": "1000089",
+			"ItemIdent": "1000089",
+			"SourceIdent": "0",
+			"GUIDString": "{49A6C0DE-9C9A-4BE9-988B-5FCBD141D932}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "35",
+			"Name": "Ликеры и настойки",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "26",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000510",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000511",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000512",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000513",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000514",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000515",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000516",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000517",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000518",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000520",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000521",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000522",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000523",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000524",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000525",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000526",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000527",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000528",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000529",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000530",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000531",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000532",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000533",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000534",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"ЛИМОНАДЫ": {
+		"attributes": {
+			"Ident": "1000090",
+			"ItemIdent": "1000090",
+			"SourceIdent": "0",
+			"GUIDString": "{D6688298-26CE-4CCD-92E8-2051CEE66979}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "36",
+			"Name": "ЛИМОНАДЫ",
+			"AltName": "",
+			"MainParentIdent": "1000099",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000099",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "27",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000535",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000536",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000537",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000538",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000539",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000540",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Односолодовый": {
+		"attributes": {
+			"Ident": "1000091",
+			"ItemIdent": "1000091",
+			"SourceIdent": "0",
+			"GUIDString": "{D9B8D084-C0A2-4AD8-A2D5-C97917193D72}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "37",
+			"Name": "Односолодовый",
+			"AltName": "",
+			"MainParentIdent": "1000085",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000085",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "28",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			}
+		}
+	},
+	"ВОДА / СОК": {
+		"attributes": {
+			"Ident": "1000092",
+			"ItemIdent": "1000092",
+			"SourceIdent": "0",
+			"GUIDString": "{73309800-B4A6-4ED1-833A-00CEA724906D}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "38",
+			"Name": "ВОДА / СОК",
+			"AltName": "",
+			"MainParentIdent": "1000099",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000099",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "29",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			}
+		}
+	},
+	"Бренди": {
+		"attributes": {
+			"Ident": "1000093",
+			"ItemIdent": "1000093",
+			"SourceIdent": "0",
+			"GUIDString": "{2AAC2C44-B5ED-4F54-95B7-1F071A78F5E8}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "39",
+			"Name": "Бренди",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "30",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000504",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000505",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000506",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000507",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Шнапс": {
+		"attributes": {
+			"Ident": "1000094",
+			"ItemIdent": "1000094",
+			"SourceIdent": "0",
+			"GUIDString": "{8F0CAD97-B514-48A7-9355-08081F377D0F}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "40",
+			"Name": "Шнапс",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "31",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			}
+		}
+	},
+	"Коньяк": {
+		"attributes": {
+			"Ident": "1000095",
+			"ItemIdent": "1000095",
+			"SourceIdent": "0",
+			"GUIDString": "{CE90044E-9087-4563-9598-292021D2E82C}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "41",
+			"Name": "Коньяк",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "32",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000491",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000492",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000493",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000494",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000495",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000496",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000497",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000498",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000499",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000500",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000501",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000502",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000503",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Писко": {
+		"attributes": {
+			"Ident": "1000096",
+			"ItemIdent": "1000096",
+			"SourceIdent": "0",
+			"GUIDString": "{46B440E4-96C1-4D58-A3CF-C5B3EA02018D}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "42",
+			"Name": "Писко",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "33",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": {
+				"_attributes": {
+					"ChildIdent": "1000509",
+					"IsTerminal": "1"
+				}
+			}
+		}
+	},
+	"Купажированный": {
+		"attributes": {
+			"Ident": "1000097",
+			"ItemIdent": "1000097",
+			"SourceIdent": "0",
+			"GUIDString": "{49F71B62-99BD-44BB-9E6B-C30157063522}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "43",
+			"Name": "Купажированный",
+			"AltName": "",
+			"MainParentIdent": "1000085",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000085",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "34",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000463",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000464",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000465",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000466",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000467",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000468",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000469",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000470",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000471",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000472",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000473",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000474",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000475",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000476",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000477",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000478",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Алкоголь": {
+		"attributes": {
+			"Ident": "1000098",
+			"ItemIdent": "1000098",
+			"SourceIdent": "0",
+			"GUIDString": "{D3A4406A-029C-4030-87FB-E42498105596}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "44",
+			"Name": "Алкоголь",
+			"AltName": "",
+			"MainParentIdent": "1000067",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000067",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "35",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000070",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000071",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000072",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000073",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000074",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000075",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000076",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000079",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000080",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000081",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000082",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000085",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000086",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000087",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000088",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000089",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000093",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000094",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000095",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000096",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000865",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000866",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"Без алкоголь": {
+		"attributes": {
+			"Ident": "1000099",
+			"ItemIdent": "1000099",
+			"SourceIdent": "0",
+			"GUIDString": "{16382DA0-44E6-455A-8E07-9946FF889191}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "45",
+			"Name": "Без алкоголь",
+			"AltName": "",
+			"MainParentIdent": "1000067",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000067",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "36",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000090",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000092",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000867",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"Текила бутылка": {
+		"attributes": {
+			"Ident": "1000553",
+			"ItemIdent": "1000553",
+			"SourceIdent": "0",
+			"GUIDString": "{C1E92226-B550-43CF-9E93-F35EB0B922BF}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "46",
+			"Name": "Текила бутылка",
+			"AltName": "",
+			"MainParentIdent": "1000081",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000081",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "3",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000562",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000563",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000564",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000565",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Текила 50мл": {
+		"attributes": {
+			"Ident": "1000554",
+			"ItemIdent": "1000554",
+			"SourceIdent": "0",
+			"GUIDString": "{21DA8707-C481-4783-B928-CDA0CD2C52DA}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "47",
+			"Name": "Текила 50мл",
+			"AltName": "",
+			"MainParentIdent": "1000081",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000081",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "37",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000371",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000372",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000373",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000374",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000375",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000376",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000377",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000378",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000379",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000380",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Текила 20мл": {
+		"attributes": {
+			"Ident": "1000555",
+			"ItemIdent": "1000555",
+			"SourceIdent": "0",
+			"GUIDString": "{33056C7C-1751-4B1B-9180-16B6AC982AE9}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "48",
+			"Name": "Текила 20мл",
+			"AltName": "",
+			"MainParentIdent": "1000081",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000081",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "38",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000566",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000567",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000568",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000569",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Мескаль 20мл": {
+		"attributes": {
+			"Ident": "1000556",
+			"ItemIdent": "1000556",
+			"SourceIdent": "0",
+			"GUIDString": "{5925189E-8AE3-4C44-97AA-2B2DBF8970DC}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "49",
+			"Name": "Мескаль 20мл",
+			"AltName": "",
+			"MainParentIdent": "1000080",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000080",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "39",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000570",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000571",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000572",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Мескаль 40мл": {
+		"attributes": {
+			"Ident": "1000557",
+			"ItemIdent": "1000557",
+			"SourceIdent": "0",
+			"GUIDString": "{0FAE4BDA-8A53-4A9B-AAC3-A91B467F2C63}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "50",
+			"Name": "Мескаль 40мл",
+			"AltName": "",
+			"MainParentIdent": "1000080",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000080",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "40",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000407",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000408",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000409",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000410",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000411",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Мескаль бутылка": {
+		"attributes": {
+			"Ident": "1000558",
+			"ItemIdent": "1000558",
+			"SourceIdent": "0",
+			"GUIDString": "{444EE69F-FCA8-4807-A1F9-F5D1B391699A}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "51",
+			"Name": "Мескаль бутылка",
+			"AltName": "",
+			"MainParentIdent": "1000080",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000080",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "41",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000573",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000574",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000575",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Шотландия 20мл": {
+		"attributes": {
+			"Ident": "1000559",
+			"ItemIdent": "1000559",
+			"SourceIdent": "0",
+			"GUIDString": "{7EB8F07F-EE91-47B8-B96E-F8E789CFF605}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "52",
+			"Name": "Шотландия 20мл",
+			"AltName": "",
+			"MainParentIdent": "1000083",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000083",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "42",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000576",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000577",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000578",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000579",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000580",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000581",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000582",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000583",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000584",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000585",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000586",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000587",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Шотландия 40мл": {
+		"attributes": {
+			"Ident": "1000560",
+			"ItemIdent": "1000560",
+			"SourceIdent": "0",
+			"GUIDString": "{3BB814F4-2E1F-473E-AA57-1045C869F4D3}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "53",
+			"Name": "Шотландия 40мл",
+			"AltName": "",
+			"MainParentIdent": "1000083",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000083",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "43",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000433",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000434",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000435",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000436",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000437",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000438",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000439",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000440",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000441",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000442",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000443",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000444",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000445",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000446",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000447",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000448",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000449",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000450",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000451",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000452",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000453",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000454",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000455",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Шотландия бутылка": {
+		"attributes": {
+			"Ident": "1000561",
+			"ItemIdent": "1000561",
+			"SourceIdent": "0",
+			"GUIDString": "{0B6551B0-CE8E-4C10-B64F-DE2786382715}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "54",
+			"Name": "Шотландия бутылка",
+			"AltName": "",
+			"MainParentIdent": "1000083",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000083",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "44",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000588",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000589",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000590",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000591",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000592",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000593",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000594",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000595",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000596",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000597",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000598",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000599",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Вино": {
+		"attributes": {
+			"Ident": "1000601",
+			"ItemIdent": "1000601",
+			"SourceIdent": "0",
+			"GUIDString": "{6F41B943-9DAE-450C-90F4-D8517150E67C}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "93",
+			"Name": "Вино",
+			"AltName": "",
+			"MainParentIdent": "1000067",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000067",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "46",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000602",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000609",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000614",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"вино по бокалам": {
+		"attributes": {
+			"Ident": "1000602",
+			"ItemIdent": "1000602",
+			"SourceIdent": "0",
+			"GUIDString": "{B4F3EB3F-BAA1-4B0A-B483-7D5DF8D82763}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "94",
+			"Name": "вино по бокалам",
+			"AltName": "",
+			"MainParentIdent": "1000601",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000601",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "47",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000603",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000604",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000605",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000606",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000607",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000608",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"Белое 150мл": {
+		"attributes": {
+			"Ident": "1000603",
+			"ItemIdent": "1000603",
+			"SourceIdent": "0",
+			"GUIDString": "{455B6D42-89D1-4246-A524-2AF02BC50252}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "95",
+			"Name": "Белое 150мл",
+			"AltName": "",
+			"MainParentIdent": "1000602",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000602",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "48",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000634",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000636",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000707",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000708",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Белое 250мл": {
+		"attributes": {
+			"Ident": "1000604",
+			"ItemIdent": "1000604",
+			"SourceIdent": "0",
+			"GUIDString": "{0C54DA2F-7F68-40D2-89EF-5BAB4C087492}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "96",
+			"Name": "Белое 250мл",
+			"AltName": "",
+			"MainParentIdent": "1000602",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000602",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "49",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000635",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000637",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000710",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000745",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"По бокалам красное": {
+		"attributes": {
+			"Ident": "1000605",
+			"ItemIdent": "1000605",
+			"SourceIdent": "0",
+			"GUIDString": "{000FF14A-61EE-4D81-A0D3-35996CDB8336}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "false",
+			"Code": "97",
+			"Name": "По бокалам красное",
+			"AltName": "",
+			"MainParentIdent": "1000602",
+			"Status": "rsDeleted",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000602",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "50",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			}
+		}
+	},
+	"По бокалам белое": {
+		"attributes": {
+			"Ident": "1000606",
+			"ItemIdent": "1000606",
+			"SourceIdent": "0",
+			"GUIDString": "{75B426F9-9A7C-44D2-A661-A07A84916308}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "false",
+			"Code": "98",
+			"Name": "По бокалам белое",
+			"AltName": "",
+			"MainParentIdent": "1000602",
+			"Status": "rsDeleted",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000602",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "51",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			}
+		}
+	},
+	"Красное 150мл": {
+		"attributes": {
+			"Ident": "1000607",
+			"ItemIdent": "1000607",
+			"SourceIdent": "0",
+			"GUIDString": "{297A55F5-7AD0-4962-8A97-535F41A7995F}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "99",
+			"Name": "Красное 150мл",
+			"AltName": "",
+			"MainParentIdent": "1000602",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000602",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "52",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000638",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000639",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000641",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000672",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000714",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000715",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000716",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000750",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Красное 250мл": {
+		"attributes": {
+			"Ident": "1000608",
+			"ItemIdent": "1000608",
+			"SourceIdent": "0",
+			"GUIDString": "{DE01B1C6-D28C-4F9A-829F-50FDF8B0A796}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "100",
+			"Name": "Красное 250мл",
+			"AltName": "",
+			"MainParentIdent": "1000602",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000602",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "53",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000640",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000643",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000648",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000649",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000717",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000718",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000747",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000751",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Шампанское": {
+		"attributes": {
+			"Ident": "1000609",
+			"ItemIdent": "1000609",
+			"SourceIdent": "0",
+			"GUIDString": "{F68EA1DE-8F03-4370-8595-F3F8E7930224}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "101",
+			"Name": "Шампанское",
+			"AltName": "",
+			"MainParentIdent": "1000601",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000601",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "54",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000610",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000611",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000612",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000613",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"Шампанское белое": {
+		"attributes": {
+			"Ident": "1000610",
+			"ItemIdent": "1000610",
+			"SourceIdent": "0",
+			"GUIDString": "{344573FA-729D-4D94-8DC6-86E13328D96F}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "102",
+			"Name": "Шампанское белое",
+			"AltName": "",
+			"MainParentIdent": "1000609",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000609",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "55",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000650",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000652",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000653",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000658",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000661",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000668",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000693",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000695",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000711",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000712",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000713",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000719",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000726",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000728",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000744",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000746",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Шампанское розовое": {
+		"attributes": {
+			"Ident": "1000611",
+			"ItemIdent": "1000611",
+			"SourceIdent": "0",
+			"GUIDString": "{067D76CB-AB4F-4A84-AEBA-7A1645F3C55A}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "103",
+			"Name": "Шампанское розовое",
+			"AltName": "",
+			"MainParentIdent": "1000609",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000609",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "56",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000645",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000656",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000688",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000691",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000709",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000729",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000730",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000742",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Шампанское пол бутылки": {
+		"attributes": {
+			"Ident": "1000612",
+			"ItemIdent": "1000612",
+			"SourceIdent": "0",
+			"GUIDString": "{CF57A344-4F0C-4685-8E96-29E4585A7DE4}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "104",
+			"Name": "Шампанское пол бутылки",
+			"AltName": "",
+			"MainParentIdent": "1000609",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000609",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "57",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000655",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000724",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Sparkling Wine": {
+		"attributes": {
+			"Ident": "1000613",
+			"ItemIdent": "1000613",
+			"SourceIdent": "0",
+			"GUIDString": "{88F07DFF-B659-40C1-A9A0-D09D31799494}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "105",
+			"Name": "Sparkling Wine",
+			"AltName": "",
+			"MainParentIdent": "1000609",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000609",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "58",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000644",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000651",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000657",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000664",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000667",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000670",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000725",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000731",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000735",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000737",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000738",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000739",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Страны": {
+		"attributes": {
+			"Ident": "1000614",
+			"ItemIdent": "1000614",
+			"SourceIdent": "0",
+			"GUIDString": "{BC163D5B-BAB5-4E12-A4A8-6EE3EA994ED5}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "106",
+			"Name": "Страны",
+			"AltName": "",
+			"MainParentIdent": "1000601",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000601",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "59",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000615",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000618",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000619",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000620",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000621",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000622",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"Austria/Germany": {
+		"attributes": {
+			"Ident": "1000615",
+			"ItemIdent": "1000615",
+			"SourceIdent": "0",
+			"GUIDString": "{5F76942A-418F-4460-9DFC-6F887826C0A9}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "107",
+			"Name": "Austria/Germany",
+			"AltName": "",
+			"MainParentIdent": "1000614",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000614",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "60",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000616",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000617",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"Austria/Germany белое": {
+		"attributes": {
+			"Ident": "1000616",
+			"ItemIdent": "1000616",
+			"SourceIdent": "0",
+			"GUIDString": "{84367D4A-A2D9-40F1-98F3-79FA73C755FE}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "108",
+			"Name": "Austria/Germany белое",
+			"AltName": "",
+			"MainParentIdent": "1000615",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000615",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "61",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000727",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000734",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000736",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000772",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Austria/Germany красное": {
+		"attributes": {
+			"Ident": "1000617",
+			"ItemIdent": "1000617",
+			"SourceIdent": "0",
+			"GUIDString": "{423AC3D1-A82E-4378-981E-D93D882EB950}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "109",
+			"Name": "Austria/Germany красное",
+			"AltName": "",
+			"MainParentIdent": "1000615",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000615",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "62",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000732",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000733",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000758",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"ITALY": {
+		"attributes": {
+			"Ident": "1000618",
+			"ItemIdent": "1000618",
+			"SourceIdent": "0",
+			"GUIDString": "{954DFFCE-6BAD-4DB2-9E5A-23698B5F817B}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "110",
+			"Name": "ITALY",
+			"AltName": "",
+			"MainParentIdent": "1000614",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000614",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "63",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000632",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000633",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"FRANCE": {
+		"attributes": {
+			"Ident": "1000619",
+			"ItemIdent": "1000619",
+			"SourceIdent": "0",
+			"GUIDString": "{79F0EBA6-EAB6-4222-9923-1AB00B586C95}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "111",
+			"Name": "FRANCE",
+			"AltName": "",
+			"MainParentIdent": "1000614",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000614",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "64",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000629",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000630",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000631",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"USA": {
+		"attributes": {
+			"Ident": "1000620",
+			"ItemIdent": "1000620",
+			"SourceIdent": "0",
+			"GUIDString": "{2FD28E23-0F2E-41BA-BE59-A53D240931E0}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "112",
+			"Name": "USA",
+			"AltName": "",
+			"MainParentIdent": "1000614",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000614",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "65",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000625",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000626",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"ISRAEL": {
+		"attributes": {
+			"Ident": "1000621",
+			"ItemIdent": "1000621",
+			"SourceIdent": "0",
+			"GUIDString": "{5CA6219F-9B43-4041-BF14-29FAFFB97DCC}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "113",
+			"Name": "ISRAEL",
+			"AltName": "",
+			"MainParentIdent": "1000614",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000614",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "66",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000627",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000628",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"AUSTRALIA": {
+		"attributes": {
+			"Ident": "1000622",
+			"ItemIdent": "1000622",
+			"SourceIdent": "0",
+			"GUIDString": "{D19F95ED-59F9-4C82-B562-432D27E8A723}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "114",
+			"Name": "AUSTRALIA",
+			"AltName": "",
+			"MainParentIdent": "1000614",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000614",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "67",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000623",
+						"IsTerminal": "0"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000624",
+						"IsTerminal": "0"
+					}
+				}
+			]
+		}
+	},
+	"AUSTRALIA белое": {
+		"attributes": {
+			"Ident": "1000623",
+			"ItemIdent": "1000623",
+			"SourceIdent": "0",
+			"GUIDString": "{0FB5F195-1BF9-4423-A324-212FB742D8DB}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "115",
+			"Name": "AUSTRALIA белое",
+			"AltName": "",
+			"MainParentIdent": "1000622",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000622",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "68",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": {
+				"_attributes": {
+					"ChildIdent": "1000767",
+					"IsTerminal": "1"
+				}
+			}
+		}
+	},
+	"AUSTRALIA Красное": {
+		"attributes": {
+			"Ident": "1000624",
+			"ItemIdent": "1000624",
+			"SourceIdent": "0",
+			"GUIDString": "{588E0790-29F7-4623-858A-CD3D1F4D1F25}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "116",
+			"Name": "AUSTRALIA Красное",
+			"AltName": "",
+			"MainParentIdent": "1000622",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000622",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "69",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000722",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000723",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000752",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000753",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000756",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000757",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000776",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"USA белое": {
+		"attributes": {
+			"Ident": "1000625",
+			"ItemIdent": "1000625",
+			"SourceIdent": "0",
+			"GUIDString": "{9FD1165A-8517-46C9-AC2A-004CAE09BC85}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "117",
+			"Name": "USA белое",
+			"AltName": "",
+			"MainParentIdent": "1000620",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000620",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "70",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": {
+				"_attributes": {
+					"ChildIdent": "1000770",
+					"IsTerminal": "1"
+				}
+			}
+		}
+	},
+	"USA Красное": {
+		"attributes": {
+			"Ident": "1000626",
+			"ItemIdent": "1000626",
+			"SourceIdent": "0",
+			"GUIDString": "{FBF747C2-575B-4BE1-81ED-11C895563233}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "118",
+			"Name": "USA Красное",
+			"AltName": "",
+			"MainParentIdent": "1000620",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000620",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "71",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": {
+				"_attributes": {
+					"ChildIdent": "1000777",
+					"IsTerminal": "1"
+				}
+			}
+		}
+	},
+	"ISRAEL красное": {
+		"attributes": {
+			"Ident": "1000627",
+			"ItemIdent": "1000627",
+			"SourceIdent": "0",
+			"GUIDString": "{E631BB6F-D4FB-49B0-B635-560A76CA43F4}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "119",
+			"Name": "ISRAEL красное",
+			"AltName": "",
+			"MainParentIdent": "1000621",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000621",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "72",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": {
+				"_attributes": {
+					"ChildIdent": "1000768",
+					"IsTerminal": "1"
+				}
+			}
+		}
+	},
+	"ISRAEL белое": {
+		"attributes": {
+			"Ident": "1000628",
+			"ItemIdent": "1000628",
+			"SourceIdent": "0",
+			"GUIDString": "{C231A627-2E93-4177-B51E-56C97AAB28CE}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "120",
+			"Name": "ISRAEL белое",
+			"AltName": "",
+			"MainParentIdent": "1000621",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000621",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "73",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000766",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000769",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"FRANCE белое": {
+		"attributes": {
+			"Ident": "1000629",
+			"ItemIdent": "1000629",
+			"SourceIdent": "0",
+			"GUIDString": "{8EA5A18D-B0FB-4664-B01A-71FFFFB2C6FB}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "121",
+			"Name": "FRANCE белое",
+			"AltName": "",
+			"MainParentIdent": "1000619",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000619",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "74",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000740",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000748",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000749",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000755",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000763",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000774",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"FRANCE Красное": {
+		"attributes": {
+			"Ident": "1000630",
+			"ItemIdent": "1000630",
+			"SourceIdent": "0",
+			"GUIDString": "{D876ABE2-615E-482B-A681-AA05A2C0BA52}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "122",
+			"Name": "FRANCE Красное",
+			"AltName": "",
+			"MainParentIdent": "1000619",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000619",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "75",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000759",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000760",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000761",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000762",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000764",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000765",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000771",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000773",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"FRANCE розовое": {
+		"attributes": {
+			"Ident": "1000631",
+			"ItemIdent": "1000631",
+			"SourceIdent": "0",
+			"GUIDString": "{210E4868-E5B6-4A15-AF6A-C66B6E5EA6BD}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "123",
+			"Name": "FRANCE розовое",
+			"AltName": "",
+			"MainParentIdent": "1000619",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000619",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "76",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": {
+				"_attributes": {
+					"ChildIdent": "1000741",
+					"IsTerminal": "1"
+				}
+			}
+		}
+	},
+	"ITALY красное": {
+		"attributes": {
+			"Ident": "1000632",
+			"ItemIdent": "1000632",
+			"SourceIdent": "0",
+			"GUIDString": "{95BA2BE5-7B76-4E96-B1B7-04B845E72B2C}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "124",
+			"Name": "ITALY красное",
+			"AltName": "",
+			"MainParentIdent": "1000618",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000618",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "77",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			}
+		}
+	},
+	"ITALY белое": {
+		"attributes": {
+			"Ident": "1000633",
+			"ItemIdent": "1000633",
+			"SourceIdent": "0",
+			"GUIDString": "{C94448BA-9480-42AA-9F77-825C419D5481}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "125",
+			"Name": "ITALY белое",
+			"AltName": "",
+			"MainParentIdent": "1000618",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000618",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "78",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000720",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000721",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000743",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000754",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000775",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000778",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"undefined": {
+		"attributes": {
+			"Ident": "1000789",
+			"ItemIdent": "1000789",
+			"SourceIdent": "0",
+			"GUIDString": "{2D73E1DF-AC70-43D6-85EE-DD46E3898D4F}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "false",
+			"Code": "154",
+			"Name": "undefined",
+			"AltName": "",
+			"MainParentIdent": "1000066",
+			"Status": "rsDeleted",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000066",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "87",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			}
+		}
+	},
+	"аквариум": {
+		"attributes": {
+			"Ident": "1000810",
+			"ItemIdent": "1000810",
+			"SourceIdent": "0",
+			"GUIDString": "{6CA8885D-8A29-45C5-9ACE-315A49DED81B}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "181",
+			"Name": "аквариум",
+			"AltName": "",
+			"MainParentIdent": "1000066",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000066",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "108",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000820",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000821",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000822",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000823",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000824",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000825",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"икорный бар": {
+		"attributes": {
+			"Ident": "1000811",
+			"ItemIdent": "1000811",
+			"SourceIdent": "0",
+			"GUIDString": "{7CA934CB-FFC5-438D-90E4-5FE72261AD57}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "183",
+			"Name": "икорный бар",
+			"AltName": "",
+			"MainParentIdent": "1000066",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000066",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "109",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			}
+		}
+	},
+	"салат": {
+		"attributes": {
+			"Ident": "1000814",
+			"ItemIdent": "1000814",
+			"SourceIdent": "0",
+			"GUIDString": "{AE7AF741-FE95-40DC-A282-000D229A3276}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "187",
+			"Name": "салат",
+			"AltName": "",
+			"MainParentIdent": "1000066",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000066",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "112",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000833",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000835",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000837",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000839",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"закуски": {
+		"attributes": {
+			"Ident": "1000813",
+			"ItemIdent": "1000813",
+			"SourceIdent": "0",
+			"GUIDString": "{65661E81-CC97-4D02-8B50-C2ECCF29E02E}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "186",
+			"Name": "закуски",
+			"AltName": "",
+			"MainParentIdent": "1000066",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000066",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "111",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000832",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000834",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000836",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000838",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000841",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"суп": {
+		"attributes": {
+			"Ident": "1000815",
+			"ItemIdent": "1000815",
+			"SourceIdent": "0",
+			"GUIDString": "{CA4D60EB-F26B-4955-AE3E-00E31AE4B0CA}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "188",
+			"Name": "суп",
+			"AltName": "",
+			"MainParentIdent": "1000066",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000066",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "113",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000842",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000844",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000859",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"рыба": {
+		"attributes": {
+			"Ident": "1000817",
+			"ItemIdent": "1000817",
+			"SourceIdent": "0",
+			"GUIDString": "{20121755-4172-407C-AECD-74A8ADAE6A9A}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "190",
+			"Name": "рыба",
+			"AltName": "",
+			"MainParentIdent": "1000066",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000066",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "115",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000843",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000845",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000846",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000847",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000858",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"мясо": {
+		"attributes": {
+			"Ident": "1000816",
+			"ItemIdent": "1000816",
+			"SourceIdent": "0",
+			"GUIDString": "{F638DE81-95C7-42CC-A82A-ED1782DBA4C6}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "189",
+			"Name": "мясо",
+			"AltName": "",
+			"MainParentIdent": "1000066",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000066",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "114",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000848",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000849",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000850",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"птица": {
+		"attributes": {
+			"Ident": "1000818",
+			"ItemIdent": "1000818",
+			"SourceIdent": "0",
+			"GUIDString": "{7075082A-0058-4805-8FE9-4AD62EDBCA5A}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "191",
+			"Name": "птица",
+			"AltName": "",
+			"MainParentIdent": "1000066",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000066",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "116",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000851",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000852",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"деликатесы": {
+		"attributes": {
+			"Ident": "1000812",
+			"ItemIdent": "1000812",
+			"SourceIdent": "0",
+			"GUIDString": "{9BA2DC8D-B935-49F4-B292-C03DC6703577}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "false",
+			"Code": "185",
+			"Name": "деликатесы",
+			"AltName": "",
+			"MainParentIdent": "1000066",
+			"Status": "rsDeleted",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000066",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "110",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			}
+		}
+	},
+	"десерты": {
+		"attributes": {
+			"Ident": "1000819",
+			"ItemIdent": "1000819",
+			"SourceIdent": "0",
+			"GUIDString": "{C2EB6C5C-AC25-4153-A026-0C056E1C98CE}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "false",
+			"Code": "192",
+			"Name": "десерты",
+			"AltName": "",
+			"MainParentIdent": "1000066",
+			"Status": "rsDeleted",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000066",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "117",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			}
+		}
+	},
+	"Коктейли Авторские London Бар": {
+		"attributes": {
+			"Ident": "1000865",
+			"ItemIdent": "1000865",
+			"SourceIdent": "0",
+			"GUIDString": "{DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "498",
+			"Name": "Коктейли Авторские London Бар",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "118",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000870",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000871",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000872",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000873",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000874",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000875",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000876",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000877",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000878",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000879",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000880",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000881",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000882",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000885",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000886",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Современная классика London Бар": {
+		"attributes": {
+			"Ident": "1000866",
+			"ItemIdent": "1000866",
+			"SourceIdent": "0",
+			"GUIDString": "{7108F654-EA80-4FE6-A33D-95D0E3A07353}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "499",
+			"Name": "Современная классика London Бар",
+			"AltName": "",
+			"MainParentIdent": "1000098",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000098",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "119",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000883",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000884",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000887",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000888",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000889",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000890",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000891",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000892",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000895",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	},
+	"Лимонады London Бар": {
+		"attributes": {
+			"Ident": "1000867",
+			"ItemIdent": "1000867",
+			"SourceIdent": "0",
+			"GUIDString": "{91AD966B-E283-493B-BCC6-E44D309F07CF}",
+			"AssignChildsOnServer": "false",
+			"ActiveHierarchy": "true",
+			"Code": "500",
+			"Name": "Лимонады London Бар",
+			"AltName": "",
+			"MainParentIdent": "1000099",
+			"Status": "rsActive",
+			"VisualType_Image": "0",
+			"VisualType_BColor": "536870911",
+			"VisualType_TextColor": "536870911",
+			"VisualType_Flags": "bsPictureTop",
+			"Parent": "1000099",
+			"Comment": "",
+			"AddToOrder": "false",
+			"ExtCode": "120",
+			"EditRight": "0",
+			"RightLvl": "0",
+			"CategKind": "0"
+		},
+		"childs": {
+			"attributes": {
+				"ClassName": "tChildCollection"
+			},
+			"child": [
+				{
+					"_attributes": {
+						"ChildIdent": "1000893",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000894",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000896",
+						"IsTerminal": "1"
+					}
+				},
+				{
+					"_attributes": {
+						"ChildIdent": "1000897",
+						"IsTerminal": "1"
+					}
+				}
+			]
+		}
+	}
+}

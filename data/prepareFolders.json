@@ -1,0 +1,17 @@
+{
+  "0": {
+    "folder": "Коктейли Авторские London Бар",
+    "parentGUID": "D6688298-26CE-4CCD-92E8-2051CEE66979",
+    "guid": "F8395160-472B-4FC2-9C7B-D8E4ED72BE89"
+  },
+  "16": {
+    "folder": "Современная классика London Бар",
+    "parentGUID": "D6688298-26CE-4CCD-92E8-2051CEE66979",
+    "guid": "95DB63ED-03A3-45FA-AD19-A0DB99C8C00C"
+  },
+  "26": {
+    "folder": "Лимонады London Бар",
+    "parentGUID": "D6688298-26CE-4CCD-92E8-2051CEE66979",
+    "guid": "C7ABE878-EDC9-4F17-95B0-83861C1B3251"
+  }
+}

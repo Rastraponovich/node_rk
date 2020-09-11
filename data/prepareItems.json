@@ -1,0 +1,226 @@
+{
+  "1": {
+    "name": "Амаро баблз",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "55BCDC03-F89F-4508-AD68-788071D7D0DC"
+  },
+  "2": {
+    "name": "Бананза хайбол",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "9EFFABC6-660E-4DC5-A5F7-E8A5CE05FF9F"
+  },
+  "3": {
+    "name": "Кокки колада",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "B0CC736E-C069-407B-9B2E-F41BCA3B46AB"
+  },
+  "4": {
+    "name": "Грейпвкрут",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "2ED4F68D-750A-4602-84F8-05B036991E75"
+  },
+  "5": {
+    "name": "Макадамия сауэр",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "02B190C0-DF43-46A0-A2F7-541AC838CFC6"
+  },
+  "6": {
+    "name": "Мидзуволкер",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "D8EC6B75-073B-475E-B1D5-7F7E78505CC5"
+  },
+  "7": {
+    "name": "Пало-санто гимлет",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "629EF35F-7BF5-454C-B0A2-C656D1BCE514"
+  },
+  "8": {
+    "name": "Passion  №2 / Маракуйя с чили",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "101A76F5-BF95-4AB0-A3AF-16FA9A6350FC"
+  },
+  "9": {
+    "name": "Сливовый Сбальято",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "E39C4059-20CB-40AF-A642-CAFE36D7492D"
+  },
+  "10": {
+    "name": "Панч лайн",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "EBB97908-5676-414D-B7B3-5EF51A134088"
+  },
+  "11": {
+    "name": "Возрождение Беллини",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "BEED1EA1-F3BD-436E-8347-2E84023541E9"
+  },
+  "12": {
+    "name": "Сикс элементс",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "597ED47A-88BD-44D6-B70C-30DA3F03AF46"
+  },
+  "13": {
+    "name": "Бэнкси хайбол",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "7918BEE6-A9C4-4986-8E63-E6024928FB04"
+  },
+  "14": {
+    "name": "Роза с миндалём",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "4365D7E7-7915-4199-AE3D-145C3046349B"
+  },
+  "15": {
+    "name": "Томат и клубника тини",
+    "price": 0,
+    "parentGUID": "DE6D7DC2-5F29-4CDA-8B36-BBECD6131FAF",
+    "classification": 2562,
+    "print": 514,
+    "guid": "42413908-DBE5-4BCC-A711-AD4E108F8360"
+  },
+  "17": {
+    "name": "Dr Pepper old fashioned",
+    "price": 0,
+    "parentGUID": "7108F654-EA80-4FE6-A33D-95D0E3A07353",
+    "classification": 2562,
+    "print": 514,
+    "guid": "10ED4BE9-F79E-4124-AAC7-229DA9F5875E"
+  },
+  "18": {
+    "name": "Figs Bamboo",
+    "price": 0,
+    "parentGUID": "7108F654-EA80-4FE6-A33D-95D0E3A07353",
+    "classification": 2562,
+    "print": 514,
+    "guid": "2FC5FE8F-DC17-4F3E-A9FC-DB031CB10C61"
+  },
+  "19": {
+    "name": "Passion cosmopolitan",
+    "price": 0,
+    "parentGUID": "7108F654-EA80-4FE6-A33D-95D0E3A07353",
+    "classification": 2562,
+    "print": 514,
+    "guid": "CD7029C0-1D08-4542-B1D6-48C175C65515"
+  },
+  "20": {
+    "name": "Бананановая марго",
+    "price": 0,
+    "parentGUID": "7108F654-EA80-4FE6-A33D-95D0E3A07353",
+    "classification": 2562,
+    "print": 514,
+    "guid": "33F810ED-B81A-4370-931B-72FD6118CB07"
+  },
+  "21": {
+    "name": "Дайкири печеный ананас",
+    "price": 0,
+    "parentGUID": "7108F654-EA80-4FE6-A33D-95D0E3A07353",
+    "classification": 2562,
+    "print": 514,
+    "guid": "125FEB7C-9F41-4D68-A91D-F677A0487942"
+  },
+  "22": {
+    "name": "Пешн шампань",
+    "price": 0,
+    "parentGUID": "7108F654-EA80-4FE6-A33D-95D0E3A07353",
+    "classification": 2562,
+    "print": 514,
+    "guid": "8C4535E5-AC79-49EA-9F8B-85467BF60F74"
+  },
+  "23": {
+    "name": "Современный белый русский",
+    "price": 0,
+    "parentGUID": "7108F654-EA80-4FE6-A33D-95D0E3A07353",
+    "classification": 2562,
+    "print": 514,
+    "guid": "BBD10AA1-1D91-4BE9-99B9-E908A9C94F3A"
+  },
+  "24": {
+    "name": "Хуго хайбол",
+    "price": 0,
+    "parentGUID": "7108F654-EA80-4FE6-A33D-95D0E3A07353",
+    "classification": 2562,
+    "print": 514,
+    "guid": "9C7DFEAB-9FA2-438A-8F10-3901C730177C"
+  },
+  "25": {
+    "name": "Эспрессо мартини хайбол",
+    "price": 0,
+    "parentGUID": "7108F654-EA80-4FE6-A33D-95D0E3A07353",
+    "classification": 2562,
+    "print": 514,
+    "guid": "818FCBF3-D41A-4851-BF8D-07E6F14FA516"
+  },
+  "27": {
+    "name": "Клубника и молочный улун",
+    "price": 0,
+    "parentGUID": "91AD966B-E283-493B-BCC6-E44D309F07CF",
+    "classification": 2563,
+    "print": 514,
+    "guid": "24FF463E-0C93-4265-BA58-FA7E9733FB28"
+  },
+  "28": {
+    "name": "Палосанто и алоэ",
+    "price": 0,
+    "parentGUID": "91AD966B-E283-493B-BCC6-E44D309F07CF",
+    "classification": 2563,
+    "print": 514,
+    "guid": "64932878-0FA2-4926-90F7-5DA5FF51EE08"
+  },
+  "29": {
+    "name": "Пиво и ройбуш и шоколад",
+    "price": 0,
+    "parentGUID": "91AD966B-E283-493B-BCC6-E44D309F07CF",
+    "classification": 2563,
+    "print": 514,
+    "guid": "3855393C-7859-4E12-B8AD-5B9C30E17AC8"
+  },
+  "30": {
+    "name": "Роза кардамон London",
+    "price": 0,
+    "parentGUID": "91AD966B-E283-493B-BCC6-E44D309F07CF",
+    "classification": 2563,
+    "print": 514,
+    "guid": "FDDCE50F-F391-422E-8CA6-517582290EA0"
+  }
+}

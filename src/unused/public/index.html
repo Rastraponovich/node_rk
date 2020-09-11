@@ -3,28 +3,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./css/style.css">
+	<link rel=stylesheet href="https://dev.carbis.ru/shopapp/v1/style">;
 </head>
-<header class="header padding-site">
-    <h2 class="title">sdfdsf</h2>
+<header class="header padding-site flex">
+    <h2 class="title">Вызов персонала</h2>
 </header>
 
 <body>
-    <main>
+    <main class="flex-column">
         <section class="container flex-column padding-site">
-            <form action="/" method="post" class="form flex-column">
+		<div id="minidelivery" merchant="c4fee099dcb8911484cdc9f67278246c"></div>
+            <span class="status__text" id="statusText"></span>
+            <form action="http://localhost:4000/sendMessage" novalidate method="post" class="form flex-column">
                 <label class="form-label flex-column">
                     <span class="form-label__text">Сообщение</span>
-                    <input type="text" class="form-label__input">
+                    <input type="text" id="message" class="form-label__input">
     
                 </label>
                 <label class="form-label flex-column">
                     <span class="form-label__text">Сотрудник</span>
-                    <select name="personal" class="form-label__select" id="personal">
-    
-                    </select>
+                    <select name="personal" class="form-label__select" id="personal"></select>
                 </label>
-                <label class="form-label flex-column">
+                <!-- <label class="form-label flex-column">
                     <span class="form-label__text">Стол</span>
                     <select name="table" id="table" class="form-label__select">
                         <option value="1" class="form-label-select__text">1</option>
@@ -35,19 +36,21 @@
                         <option value="6" class="form-label-select__text">6</option>
     
                     </select>
-                </label>
+                </label> -->
                 <div class="btn-group flex">
-                    <input type="submit" value="Жмак" class="btn btn__submit">
+                    <button id="submit__button" type="submit" class="btn btn__submit">Отправить</button>
+
                 </div>
             </form>
         </section>   
     </main>
-    <script src="./js/script.js"></script>
-    <script>
-        init();
-    </script>
+    <!-- <script src="./js/script.js"></script> -->
+   
+
+<script src="https://dev.carbis.ru/shopapp/v1/vendor"></script>
+<script src="https://dev.carbis.ru/shopapp/v1/app"></script>
 </body>
-<footer class="footer">
-    asdsad
+<footer class="footer flex">
+    <span class="footer__text">Привет мир</span>
 </footer>
 </html>

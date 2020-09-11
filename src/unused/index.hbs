@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header class="header">
+        <h2 class="header__title">ABC report </h2>
+    </header>
+
+    <div class="container flex">
+        {{#if menuTree}} 
+            <aside class="aside filter flex-column ">
+                <form action="/" method="POST" class="flex-column">
+                    <label class="filter-label"> {{menuTree.[0].[name]}}</label>
+                    <label class="filter-label flex-column">
+                        <span class="label__text">Divisions</span>
+                        <select class="filter-select" draggable="true" id="divisions" name="divisions">
+                        {{#each divisions}}
+                            <option id={{@key}} value={{this.Rid}}>{{this.Name}}</option> 
+                        {{/each}}
+                    </select>
+                    <label class="filter-label flex-column">
+                        <span class="label__text">Depart</span>
+                        <select class="filter-select" draggable="true" id="departs" name="departs">
+                        {{#each departs}}
+                            <option id={{@key}} value={{this.Rid}}>{{this.Name}}</option> 
+                        {{/each}}
+                    </select>
+                    </label>
+                    <label class="filter-label flex-column">
+                        <span class="label__text">start-date</span>
+                        <input required class="filter-select" type="date" name="start" id="startDate">
+                    </label>
+                     <label class="filter-label flex-column">
+                        <span class="label__text">end-date</span>
+                        <input required class="filter-select" type="date" name="end" id="endDate">
+                    </label>
+                    <select class="filter-select" draggable="true" id="select" name="select">
+                        {{#each menuTree}}
+                            <option id={{@key}} value={{this.rid}}>{{this.name}}</option> 
+                        {{/each}}
+                    </select>
+                    <input type="submit" id="submit" class="filter-button btn btn-outlined" value="жмак">
+
+                    {{!-- <button id="button" class="filter-button btn btn-outlined">жмак</button> --}}
+                    </form>
+            </aside>
+        {{/if}}
+        <main class="main">
+            {{#if report }}
+            <section class="departs flex-column p1-2">
+                <div class="departs-header flex  p1-2 mb1 filter">
+                    <span class="departs-headet__text">Division: {{devdep.division}}</span>
+                    <span class="departs-headet__text">Depart: {{devdep.depart}}</span>
+                    <span class="departs-headet__text">Start: {{report.data.start}}</span>
+                    <span class="departs-headet__text">End: {{report.data.end}}</span>
+                </div>
+
+                <table class="filter">
+                    <tr class="table-row">
+                        <th class="table-cell__header">RID</th>
+                        <th class="table-cell__header">Name</th>
+                        <th class="table-cell__header">quantity</th>
+                        <th class="table-cell__header">quantity in port</th>
+                        <th class="table-cell__header">IN</th>
+                        <th class="table-cell__header">SUMM in</th>
+                        <th class="table-cell__header">SUMM out</th>
+                    </tr>
+                    {{#each report.queryResult }}
+                    <tr class="table-row">
+                        <td class="table-cell__header">{{this.[210\\1]}}</td>
+                        <td class="table-cell__header">{{this.[210\\3]}}</td>
+                        <td class="table-cell__header">{{this.[31]}}</td>
+                        <td class="table-cell__header">{{this.[75]}}</td>
+                        <td class="table-cell__header">{{this.[210\\206\\3]}}</td>
+                        <td class="table-cell__header">{{this.[43]}}</td>
+                        <td class="table-cell__header">{{this.[48]}}</td>
+                    </tr>
+                    {{/each}}
+                </table>    
+            </section>
+            {{/if}}
+            {{#if queryResult }}
+            <section class="departs">
+                {{#each queryResult}}
+                        <div class="depart-list__item" id={{@key}} >
+                            <h3 class="item__title">Имя: {{this.Name}}</h3>
+                            <span class="item__text">RID: {{this.Rid}}</span> 
+                            <span class="item__text">ИНН: {{this.[entity Tin]}}</span>   
+                        </div> 
+                {{/each}}
+            </section>
+            {{/if}}
+   
+            {{#if result}}
+            <section class="departs">
+                {{#each result}}
+                    <div class="depart-list__item" id={{@key}}>
+                        <h3 class="item__title">Наименование: {{this.name}}</h3>
+                        <span class="item__text">RID: {{this.rid}}</span>
+                        <span class="item__text">Сумма: {{this.summ}}</span>
+                        <span class="item__text">единица измерения: {{this.in}}</span>
+                        <span class="item__text">Количество: {{this.quantity}}</span>
+                    </div>
+                    {{/each}}
+            </section>
+            {{/if}}
+   
+            
+        </main>
+    </div>
+    <script>
+        const button = document.querySelector('#button');
+        const select = document.querySelector('#select');
+        
+        button.addEventListener('click', () => {
+            fetch('http://localhost:4000', {
+                method: "POST",
+                headers: {
+                    "Content-Type" : "application/json",
+                },
+                body: JSON.stringify({ data: select.value })
+            })
+            //const resultQuery = await result.json()
+            
+        });
+    </script>
+</body>
+</html>

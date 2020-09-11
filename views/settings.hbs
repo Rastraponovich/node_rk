@@ -1,0 +1,18 @@
+<section class="flex-column settings">
+    <form action="/settings" method="POST" class="form flex-column">
+        <label class="form__label flex-column">
+            <span class="label__text">URL</span>
+            <input class="input-settings" type="text" name="URL" id="url" placeholder={{settings.URL}}>
+        </label>
+        <label class="form__label flex-column">
+            <span class="label__text">User</span>
+            <input class="input-settings" type="text" name="user" id="user" placeholder={{settings.user}}>
+        </label>
+        <label class="form__label flex-column">
+            <span class="label__text">Password</span>
+            <input class="input-settings" type="password" name="pass" id="pass" placeholder={{settings.pass}}>
+        </label>
+        <input type="submit" value="Save" class="input btn btn__submit">
+    </form>
+</section>
+   

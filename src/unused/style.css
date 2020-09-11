@@ -1,0 +1,145 @@
+body{
+    margin: 0 auto;
+}
+
+.header{
+    padding: .5rem 1rem;
+    height: 10vh;
+    box-sizing: border-box;
+}
+.header__title{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    padding: .5rem;
+    /* height: 90vh; */
+
+}
+.flex{
+    display: flex;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+.main{
+    min-width: 70%;
+}
+.aside{
+    max-width: 30%;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    padding: .5rem .7rem;
+}
+
+.btn-outlined{
+    border: 1px solid black;
+    transition: border-radius .3s ease-in-out,
+                background-color .3s ease-in-out,
+                color .3s ease-in-out,
+                border .3s ease-in-out;
+}
+
+.filter{
+    background-color: transparent;
+    border: 1px solid aqua;
+    padding: .5rem 1rem;
+    box-sizing: border-box; 
+    box-shadow: 5px 5px 20px -8px rgba(0,0,0,.2);
+}
+
+.filter-label{
+    margin: 0 0 .5rem 0;
+}
+
+.filter-select{
+    padding: .5rem .7rem;
+    border-radius: 5px;
+    border: 2px solid aqua;
+    background-color: transparent;
+    margin: 0 0 .5rem 0;
+}
+
+.filter-button{
+    border-color: aqua;
+}
+
+.filter-button:hover{
+    border-color: black;
+    color: #fff;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+.p1-2{
+    padding: 1rem 2rem;
+}
+.mb1{
+    margin: 0 0 1rem 0;
+}
+
+.departs{
+    padding: 0 2rem;
+}
+
+.departs-header{
+    border-radius: 5px;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.departs-headet__text{
+    display: flex;
+    max-width: 50%;
+    min-width: 30%;
+    width: 50%;
+}
+
+.depart-list__item{
+    display: flex;
+    flex-direction: column;
+    margin: 0 .5rem 1rem 0;
+    width: 25%;
+    border: 1px solid #000;
+    padding: .5rem .5rem;
+    box-sizing: border-box;
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+}
+
+.item__title{
+    margin: 0 0 .5rem 0;
+}
+
+.item__text{
+    margin: 0 0 .5rem 0;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+
+.table-cell__header{
+    border: 1px solid black;
+    padding: .5rem 1rem;
+}
+
+.label__text{
+    margin: 0 0 1rem 0;
+}
+

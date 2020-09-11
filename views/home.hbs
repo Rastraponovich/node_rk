@@ -1,0 +1,161 @@
+<section class="upload-block flex ">
+    <form action="/" method="POST" enctype="multipart/form-data" class="form flex wrap w-70 align-start">
+        <label class="form__label">
+            <span id="labelFileUpload" class="label__text flex justify-center btn__submit">Выберите файлы</span>
+            <input 
+                type="file" 
+                hidden
+                name="filedata" 
+                data-multiple-caption="{count} files selected"
+                multiple 
+                class="input input__file" 
+                id="inputFile">
+        </label>
+        <input type="submit" value="Upload" class="input btn btn__submit">
+        <span class="fileSizes w-100 flex" id="fileSizes"></span>
+    </form>
+    <div class="fileList flex wrap w-30 justify-center">
+        <ol class="filesList__fileds" id="fileListFields">
+        </ol>
+    </div>
+</section>
+<section class="controls flex wrap">
+    <div class="btn-group flex-column wrap">
+        <h3 class="btn-group__title">Работа с папками</h3>
+        <form action="/readFolder" method="GET">
+            <input type="submit" value="прочитать папки" class="input btn btn__submit">
+        </form>
+        <form action="/saveFolder" method="GET">
+            <input type="submit" value="сохранить папки" class="input btn btn__submit">
+        </form>
+    </div>
+    <div class="btn-group flex-column wrap">
+        <h3 class="btn-group__title">Работа с блюдами</h3>
+        <form action="/readDish" method="GET">
+            <input type="submit" value="прочитать блюда" class="input btn btn__submit">
+        </form>
+        <form action="/saveDish" method="GET">
+            <input type="submit" value="записать блюда" class="input btn btn__submit">
+        </form>
+    </div>
+    <div class="btn-group flex-column wrap">
+        <h3 class="btn-group__title"> Работа с базой</h3>
+        <form action="/getFolders" method="GET">
+            <input type="submit" value="Список папок" class="input btn btn__submit">
+        </form>
+        <form action="/getItems" method="GET">
+            <input type="submit" value="Список файлов" class="input btn btn__submit">
+        </form>
+    </div>
+    
+    
+</section>
+
+
+{{#if resultFile}}
+<section class="flex flex-column w-100 list">
+    <h2>Список файлов</h2>
+
+    <table class="table">
+        <tr class="table-header">
+            <th class="table-header__text">Имя</th>
+            <th class="table-header__text">Цена</th>
+            <th class="table-header__text">Печать</th>
+            <th class="table-header__text">Классификация</th>
+            <th class="table-header__text">Папка</th>
+
+        </tr>
+        {{#each resultFile}}
+        <tr class="table-data">
+            <td class="table-data__text">{{this.name}}</td>
+            <td class="table-data__text">{{this.price}}</td>
+            <td class="table-data__text">{{this.print}}</td>
+            <td class="table-data__text">{{this.classification}}</td>
+            <td class="table-data__text">{{this.parentGUID}}</td>
+
+        </tr>
+        {{/each}}
+    </table>
+</section>
+{{/if}}
+
+{{#if resultFolder}}
+<section class="flex flex-column w-100 list">
+    <h2>Список папок</h2>
+    <table class="table">
+        <tr class="table-header">
+            <th class="table-header__text">Имя</th>
+            <th class="table-header__text">GUID</th>
+            <th class="table-header__text">Папка</th>
+        </tr>
+        {{#each resultFolder}}
+        <tr class="table-data">
+            <td class="table-data__text">{{this.folder}}</td>
+            <td class="table-data__text">{{this.guid}}</td>
+            <td class="table-data__text">{{this.parentGUID}}</td>
+        </tr>
+        {{/each}}
+    </table>
+</section>
+{{/if}}
+
+{{#if itemList}}
+    {{#each itemList}}
+        {{@key}}
+    {{/each}}
+{{/if}}
+
+
+{{#if folderList}}
+<section class="flex wrap w-100">
+    {{#each folderList}}
+    <div class="folderList flex flex-column" id={{this.attributes.Ident}}>
+        <span class="folderList__text folderList__title">{{this.attributes.Name}}</span>
+        <span class="folderList__text folderList__code">Код: {{this.attributes.Code}}</span>
+        <span class="folderList__text folderList__guid">GUID: {{this.attributes.GUIDString}}</span>
+        <span class="folderList__text folderList__status">Статус: {{this.attributes.Status}}</span>
+        <span class="folderList__text folderList__parent">Родитель: {{this.attributes.Parent}}</span>
+    </div>
+    {{/each}}
+</section>
+{{/if}}
+    {{#if message }}
+        {{message}}
+        
+    {{/if}}
+<script>
+    let imageArray = []
+    let $input = document.querySelector('#inputFile');
+    let $label = document.querySelector('#labelFileUpload');
+    let $fileListFields = document.querySelector('#fileListFields');
+    let $fileSizes = document.querySelector('#fileSizes');
+    let fileSizes = 0;
+    $input.addEventListener('click', () => {
+        $fileListFields.innerHTML = ''
+    })
+
+    $input.addEventListener('change', (e) => {
+        let fileList = e.target.files;
+        if (fileList && fileList.length > 1) {
+            $label.innerHTML = `Выбрано ${fileList.length} файлов` 
+            $input.getAttribute(('data-multiple-caption') || '' ).replace( '{count}', fileList.length )
+        } else if (fileList) {
+            $label.innerHTML = `Выбран ${fileList[0].name}` 
+            $input.getAttribute(('data-multiple-caption') || '' ).replace( '{count}', fileList.length )
+        }
+        
+        for (let i = 0; i < fileList.length; i++) {
+            fileSizes += fileList[i].size
+            let sizeOfFile = fileList[i].size/1000/1000
+            const $fileListItem = document.createElement('li')
+            $fileListItem.id = i
+            $fileListItem.classList.add('filelist__item')
+            $fileListItem.innerHTML = `${fileList[i].name} ${sizeOfFile.toFixed(2)} MB`
+            $fileListFields.appendChild($fileListItem)
+        }
+        let newSize = parseInt(fileSizes)/1000/1000;
+        $fileSizes.innerHTML = `Размер выбранных файлов: ${newSize.toFixed(2)} MB`;
+    })
+    
+    
+</script>
